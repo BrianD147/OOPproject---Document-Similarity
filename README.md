@@ -21,7 +21,4 @@ Shingle.java -		Constructor for a shingle, with parameters of docID and hashCode
 
 Poision.java - 		Constructor for a poision which extends shingle, with parameters of docID and hashCode.
 
-=============================
 In order to run the program, run "java –cp ./oop.jar ie.gmit.sw.Runner" on command line, from the downloaded folder.
-=============================
-	
